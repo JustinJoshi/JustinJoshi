@@ -34,19 +34,19 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
         <a target="_blank" href="https://bubbleskitchen.netlify.app/">
             <video autoplay loop muted>
 							<source src="images/finishedRestaurant.mp4" type="video/mp4" />
-							<source src="movie.ogg" type="video/ogg" />
+							<source src="movie.ogg" type="video/ogg"/>
 							Your browser does not support the video tag.
 						</video>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <!-- <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Fully Responsive website for a small restaurant in New York! </p>
     </td>
