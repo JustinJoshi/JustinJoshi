@@ -32,11 +32,7 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
       <h3 align="center">Bubble's Kitchen</h3>
         <br />
         <a target="_blank" href="https://bubbleskitchen.netlify.app/">
-            <video autoplay loop muted>
-							<source src="images/finishedRestaurant.mp4" type="video/mp4" />
-							<source src="movie.ogg" type="video/ogg"/>
-							Your browser does not support the video tag.
-						</video>
+        <video autoplay loop src="images/finishedRestaurant.mp4"></video>
         </a>
         <br />
         <p align="center">
