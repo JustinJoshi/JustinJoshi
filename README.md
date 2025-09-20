@@ -32,7 +32,7 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
       <h3 align="center">Bubble's Kitchen</h3>
         <br />
         <a target="_blank" href="https://bubbleskitchen.netlify.app/">
-        <video autoplay loop src="images/finishedRestaurant.mp4"></video>
+        <img src="images/restaurant.png" href="https://bubbleskitchen.netlify.app/">
         </a>
         <br />
         <p align="center">
