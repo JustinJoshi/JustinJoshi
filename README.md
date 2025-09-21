@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Previously a Project Manager, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+Previously a Project Manager, I am motivated by the power of technology as a tool for positive change.
 
 See [my website](https://justinjoshi.netlify.app/) for more information!
 
