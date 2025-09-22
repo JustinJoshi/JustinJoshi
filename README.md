@@ -33,6 +33,7 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
         <br />
         <a target="_blank" href="https://bubbleskitchen.netlify.app/">
         <img src="images/restaurant.png" href="https://bubbleskitchen.netlify.app/">
+        <img src="images/finishedResGif.gif" href="https://bubbleskitchen.netlify.app/">
         </a>
         <br />
         <p align="center">
