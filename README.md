@@ -32,7 +32,6 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
       <h3 align="center">Bubble's Kitchen</h3>
         <br />
         <a target="_blank" href="https://bubbleskitchen.netlify.app/">
-        <img src="images/restaurant.png" href="https://bubbleskitchen.netlify.app/">
         <img src="images/finishedResGif.gif" href="https://bubbleskitchen.netlify.app/">
         </a>
         <br />
