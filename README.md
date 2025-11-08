@@ -106,6 +106,26 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td> 
   </tr>  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Bubble's Kitchen</h3>
+        <br />
+        <a target="_blank" href="https://bubbleskitchen.netlify.app/">
+        <img src="images/finishedResGif.gif" href="https://bubbleskitchen.netlify.app/">
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Fully Responsive website for a small restaurant in New York! </p>
+    </td>
+
 </table>
 
 
