@@ -108,10 +108,10 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
   </tr>  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Bubble's Kitchen</h3>
+      <h3 align="center">TinyShots - Pediatric Vaccine Tracker</h3>
         <br />
-        <a target="_blank" href="https://bubbleskitchen.netlify.app/">
-        <img src="images/finishedResGif.gif" href="https://bubbleskitchen.netlify.app/">
+        <a target="_blank" href="https://vaccines-api-birth-1.onrender.com//">
+        <img src="images/finishedResGif.gif" href="https://vaccines-api-birth-1.onrender.com/">
         </a>
         <br />
         <p align="center">
@@ -123,7 +123,7 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Fully Responsive website for a small restaurant in New York! </p>
+        <p><strong>Full stack web application to help keep track of your children's immunization schedules!</p>
     </td>
 
 </table>
