@@ -111,7 +111,7 @@ See [my website](https://justinjoshi.netlify.app/) for more information!
       <h3 align="center">TinyShots - Pediatric Vaccine Tracker</h3>
         <br />
         <a target="_blank" href="https://vaccines-api-birth-1.onrender.com//">
-        <img src="images/finishedResGif.gif" href="https://vaccines-api-birth-1.onrender.com/">
+        <img src="images/tinyshotsFinished.gif" href="https://vaccines-api-birth-1.onrender.com/">
         </a>
         <br />
         <p align="center">
