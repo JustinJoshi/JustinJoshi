@@ -21,7 +21,7 @@
 
 As an operations manager at a wellness retreat, I thrived on running across departments to keep a center with hundreds of guests running smoothly. I found joy in turning complex logistics into streamlined systems, a passion that naturally led me to software engineering. Now I design digital solutions that bring the same clarity and efficiency to users at scale. I recently built InvoiceIQ, an app that automates invoice tracking and metrics for businesses. If you're looking for someone who excels in collaboration and has the technical skills to back it up, let's talk.
 
-See [my website](https://justinjoshi.netlify.app/) for more information!
+See [my website](https://justinjoshi.com/) for more information!
 
 
 <h1 align="center">Projects</h1>
