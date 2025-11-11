@@ -47,25 +47,6 @@ See [my website](https://justinjoshi.com/) for more information!
         <p><strong>HTML, CSS, JavaScript</strong> - Fully Responsive website for a small restaurant in New York! </p>
     </td>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">TinyShots - Pediatric Vaccine Tracker</h3>
-        <br />
-        <a target="_blank" href="https://vaccines-api-birth-1.onrender.com//">
-        <img src="images/tinyshotsFinal.gif" href="https://vaccines-api-birth-1.onrender.com/">
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/JustinJoshi/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Full stack web application to help keep track of your children's immunization schedules!</p>
-    </td>
 
  <td width="50%" valign="top">
       <h3 align="center">Can you acquire the one piece?</h3>
@@ -144,7 +125,6 @@ See [my website](https://justinjoshi.com/) for more information!
       </p>
         <p><strong>Full stack web application to help keep track of your children's immunization schedules!</p>
     </td>
-  </tr>
 
 </table>
 
