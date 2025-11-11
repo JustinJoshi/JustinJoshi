@@ -1,31 +1,4 @@
 
-
-
-<img src="https://i.imgur.com/1eYvH6C.png" width="100%">
-
-<p align="center">
-  <a href="https://justinjoshi.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/justinjoshi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://x.com/JustinJoshi76" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://wellfound.com/u/justin-joshi" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://justinjoshi.com/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
-
-As an operations manager at a wellness retreat, I thrived on running across departments to keep a center with hundreds of guests running smoothly. I found joy in turning complex logistics into streamlined systems, a passion that naturally led me to software engineering. Now I design digital solutions that bring the same clarity and efficiency to users at scale. I recently built InvoiceIQ, an app that automates invoice tracking and metrics for businesses. If you're looking for someone who excels in collaboration and has the technical skills to back it up, let's talk.
-
-See [my website](https://justinjoshi.com/) for more information!
-
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -72,10 +45,10 @@ See [my website](https://justinjoshi.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Topaz Auto Detailing</h3>
+      <h3 align="center">InvoiceIQ</h3>
       <br />
-        <a target="_blank" href="https://topazautodetailing.netlify.app/">
-          <img src="images/carGif.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://invoiceiq.onrender.com">
+          <img src="images/demoGif.gif" width="100%" alt="InvoiceIQ" href="https://invoiceiq.onrender.com"/>
         </a>
       <br />
         <p align="center">
@@ -86,7 +59,7 @@ See [my website](https://justinjoshi.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic and fully responsive auto detailing website for a company on the fort worth area!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Automated invoice tracking application for small businesses! </p>
     </td>
   <td width="50%" valign="top">
       <h3 align="center">My Website</h3>
