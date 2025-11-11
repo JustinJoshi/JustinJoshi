@@ -66,7 +66,6 @@ See [my website](https://justinjoshi.com/) for more information!
       </p>
         <p><strong>Full stack web application to help keep track of your children's immunization schedules!</p>
     </td>
-  </tr>
 
  <td width="50%" valign="top">
       <h3 align="center">Can you acquire the one piece?</h3>
