@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/1eYvH6C.png" width="100%">
 
 <p align="center">
-  <a href="https://justinjoshi.netlify.app/" target="_blank">
+  <a href="https://justinjoshi.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/justinjoshi/" target="_blank">
@@ -91,7 +91,7 @@ See [my website](https://justinjoshi.com/) for more information!
   <td width="50%" valign="top">
       <h3 align="center">My Website</h3>
         <br />
-        <a target="_blank" href="https://justinjoshi.netlify.app/">
+        <a target="_blank" href="https://justinjoshi.com/">
           <img src="images/portfolioGif.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
@@ -100,7 +100,7 @@ See [my website](https://justinjoshi.com/) for more information!
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://justinjoshi.netlify.app/" target="_blank">
+  <a href="https://justinjoshi.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -164,7 +164,7 @@ See [my website](https://justinjoshi.com/) for more information!
 
 
 <p align="center">
-  <a href="https://justinjoshi.netlify.app/" target="_blank">
+  <a href="https://justinjoshi.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/justinjoshi/" target="_blank">
