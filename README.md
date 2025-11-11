@@ -87,6 +87,26 @@
 
 
 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Topaz Auto Detailing</h3>
+        <br />
+        <a target="_blank" href="https://topazautodetailing.netlify.app/">
+        <img src="images/carGif.gif" href="https://topazautodetailing.netlify.app/">
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+		<p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic and fully responsive auto detailing website for a company on the fort worth area!</p>
+    </td>
+
 
 
  <td width="50%" valign="top">
