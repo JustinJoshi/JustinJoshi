@@ -1,4 +1,29 @@
 
+<img src="https://i.imgur.com/1eYvH6C.png" width="100%">
+
+<p align="center">
+  <a href="https://justinjoshi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/justinjoshi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://x.com/JustinJoshi76" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://wellfound.com/u/justin-joshi" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://justinjoshi.com/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
+
+As an operations manager at a wellness retreat, I thrived on running across departments to keep a center with hundreds of guests running smoothly. I found joy in turning complex logistics into streamlined systems, a passion that naturally led me to software engineering. Now I design digital solutions that bring the same clarity and efficiency to users at scale. I recently built InvoiceIQ, an app that automates invoice tracking and metrics for businesses. If you're looking for someone who excels in collaboration and has the technical skills to back it up, let's talk.
+
+See [my website](https://justinjoshi.com/) for more information!
+
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
