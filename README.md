@@ -44,7 +44,7 @@ See [my website](https://justinjoshi.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node.JS, MongoDB, Chart.JS</strong> - Full stack web application to track you personal metrics! </p>
+        <p><strong>Node.JS, MongoDB, Chart.JS</strong> - Full stack web application designed to help business owners keep track of their invoices! </p>
     </td>
  <td width="50%" valign="top">
       <h3 align="center">TinyShots - Pediatric Vaccine Tracker</h3>
@@ -129,7 +129,7 @@ See [my website](https://justinjoshi.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-		<p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic and fully responsive auto detailing website for a company on the fort worth area!</p>
+		<p><strong>HTML5, CSS3, & Javascript</strong> - Dynamic and fully responsive auto detailing website for a company on the Fort Worth area!</p>
     </td>
 
 
