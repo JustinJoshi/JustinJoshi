@@ -33,7 +33,7 @@ See [my website](https://justinjoshi.com/) for more information!
       <h3 align="center">InvoiceIQ</h3>
       <br />
         <a target="_blank" href="https://invoiceiq.onrender.com">
-          <img src="images/demoGifReWithFileUpload.gif" width="100%" alt="InvoiceIQ" href="https://invoiceiq.onrender.com"/>
+          <img src="images/demoGifReNoUpload.gif" width="100%" alt="InvoiceIQ" href="https://invoiceiq.onrender.com"/>
         </a>
       <br />
         <p align="center">
