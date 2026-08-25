@@ -47,47 +47,15 @@ See [my website](https://justinjoshi.com/) for more information!
         <p><strong>Node.JS, MongoDB, Chart.JS</strong> - Full stack web application designed to help business owners keep track of their invoices! </p>
     </td>
  <td width="50%" valign="top">
-      <h3 align="center">Piano Suite</h3>
-        <br />
-      <a target="_blank" href="https://github.com/JustinJoshi/piano-suite">
-            <img src="https://raw.githubusercontent.com/JustinJoshi/piano-suite/main/public/icon.png" width="100%" alt="Piano Suite"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/JustinJoshi/piano-suite" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://pianosuite.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>TypeScript, Convex, Clerk, Tailwind</strong> - Free practice community for self-taught pianists with onboarding, chord drills, spaced repetition, and progress tracking.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">nanochat</h3>
-        <br />
-      <a target="_blank" href="https://github.com/JustinJoshi/nanochat">
-            <img src="https://raw.githubusercontent.com/JustinJoshi/nanochat/main/dev/nanochat.png" width="100%" alt="nanochat"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/JustinJoshi/nanochat" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Python, Shell</strong> - Trained a 1.38B parameter GPT model from scratch on 8xH200 GPUs in 93 min for ~$48. Covers tokenization, pretraining, finetuning, evaluation, and inference.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">TinyShots - Pediatric Vaccine Tracker</h3>
         <br />
       <a target="_blank" href="https://vaccines-api-birth-1.onrender.com//">
             <img src="images/tinyshotsFinal.gif" width="100%"  alt="One Piece Game" href="https://vaccines-api-birth-1.onrender.com/"/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"> 
+
+
   <a href="https://github.com/JustinJoshi/Tiny-Shots" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -98,6 +66,7 @@ See [my website](https://justinjoshi.com/) for more information!
         <p><strong>Node.JS, MongoDB, Javascript</strong> - Full stack web application to help keep track of your children's immunization schedules!</p>
     </td>
   </tr>
+
 
   <tr>
     <td width="50%" valign="top">
